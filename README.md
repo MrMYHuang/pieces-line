@@ -1,4 +1,5 @@
 # pieces-line
+[![npm version](https://badge.fury.io/js/pieces-line.svg)](https://badge.fury.io/js/pieces-line)
 
 This is an Activepieces piece for LINE messenger.
 
